@@ -1,6 +1,7 @@
 body {
 	/*width: 1024px;*/
 	background-color: #EDEBE6;
+	font-family: 'Noto Sans', sans-serif;
 }
 
 header {
@@ -17,6 +18,7 @@ header {
 	display: block;
 	float: left;*/
 	width: 600px;
+	border-radius: 25px;
 }
 .carousel li {
     float: left;
@@ -40,7 +42,7 @@ header {
 
 #wrapper {
 	
-	margin-top: 70px;
+	margin-top: 40px;
 	margin-left: 150px;
 
 }
