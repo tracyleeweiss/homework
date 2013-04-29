@@ -1,0 +1,41 @@
+body {
+	/*width: 1024px;*/
+	background-color: #c0c0c0;
+}
+
+
+.carousel  {
+	/*margin: 55px;*/
+	height: 435px;
+	border: 2px solid black;
+    overflow: hidden;
+	/*position: relative;
+	display: block;
+	float: left;*/
+	width: 600px;
+}
+.carousel li {
+    float: left;
+    display: inline;
+    width: 600px;
+}
+.carousel ul { 
+	list-style-type:none;
+	width:2000px;
+	margin-left:0; 
+	left:0; 	
+}
+
+.btn {
+   position: relative;
+   margin: 20px;
+
+}
+
+#wrapper {
+	
+	margin-top: 70px;
+	margin-left: 150px;
+
+}
+
