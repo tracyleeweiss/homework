@@ -7,7 +7,7 @@ body {
 .carousel  {
 	/*margin: 55px;*/
 	height: 435px;
-	border: 2px solid grey;
+	border: 2px solid black;
     overflow: hidden;
 	/*position: relative;
 	display: block;
@@ -21,9 +21,11 @@ body {
 }
 .carousel ul { 
 	list-style-type:none;
+	margin-top:0px;
 	width:2000px;
 	margin-left:0; 
-	left:0; 	
+	left:0; 
+	padding-left:0px;
 }
 
 .btn {
